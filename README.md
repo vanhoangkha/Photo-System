@@ -1,4 +1,4 @@
-# 📷 Photo System
+# Photo System
 
 Photo management web application for organizing and sharing photos.
 
